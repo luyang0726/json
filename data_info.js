@@ -1,6 +1,3 @@
-module.exports = {
-
-}
 var useInfo={
   "code": 200,
   "msg": "请求成功",
@@ -28,4 +25,3 @@ var useInfo={
     "lockScreenType": 0,
   }
 }
-module.exports.useInfo = useInfo;
