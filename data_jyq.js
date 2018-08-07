@@ -1,7 +1,3 @@
-module.exports = {
-
-}
-
 var content={
   "code": 200,
     "msg": "操作完成",
@@ -252,5 +248,3 @@ var content={
       }]
   }
 }
-
-module.exports.content = content;
